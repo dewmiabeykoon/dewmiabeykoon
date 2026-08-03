@@ -10,15 +10,13 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/dewmiabeykoon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dewmiabeykoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/dewmiabeykoon" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dewmiabeykoon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:dewmiabeykoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/dewmiabeykoon" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
 
 </div>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -26,14 +24,14 @@
 🎓 Final-year Undergraduate at **Sri Lanka Technological Campus (SLTC)**
 📚 Studying **Data Science**
 
-💡 Interested in:
+Interested in:
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Business Intelligence
 - 🧠 Deep Learning & Model Deployment
 - 🌐 Full-Stack Web Development
 - 📈 Data Analytics
 
-🌱 Currently Working On:
+Currently Working On:
 - 🛡️ AI-based misinformation detection (Final Year Project)
 - 👗 Explainable Multi-Objective Generative Fashion Design Using Deep Learning and Machine Learning for Pre-Production Market Optimization
 
@@ -63,30 +61,6 @@
 
 ---
 
-### 📊 Performance Metrics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dewmiabeykoon&show_icons=true&theme=radical&hide_border=true&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewmiabeykoon&layout=compact&theme=radical&hide_border=true&border_radius=15"/>
-</div>
-
----
-
-### 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dewmiabeykoon&theme=radical&hide_border=true&border_radius=15"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dewmiabeykoon&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
-</div>
-
----
 
 ### 📈 Activity Radar
 
