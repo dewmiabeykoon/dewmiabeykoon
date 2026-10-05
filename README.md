@@ -1,91 +1,117 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:00F7FF&height=240&section=header&text=Dewmi%20Abeykoon&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<!-- Header Capsule -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Dewmi%20Abeykoon&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br/>
 
 <h2>💫 AI/ML Enthusiast &nbsp;•&nbsp; Data Scientist in the Making &nbsp;•&nbsp; Business Intelligence</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Final-Year+Data+Science+Undergraduate+%F0%9F%8E%93;Passionate+about+AI%2FML+%F0%9F%A4%96;Business+Intelligence+%26+Analytics+%F0%9F%93%88;Full-Stack+Developer+%F0%9F%92%BB" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Final-Year+Data+Science+Undergraduate+%F0%9F%8E%93;Passionate+about+AI%2FML+%F0%9F%A4%96;Business+Intelligence+%26+Analytics+%F0%9F%93%88;Full-Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/dewmiabeykoon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:dewmiabeykoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/dewmiabeykoon" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/dewmiabeykoon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:dewmiabeykoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://github.com/dewmiabeykoon" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
 
 </div>
 
 ---
 
-###  About Me
+### ✨ About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-✨ Passionate about turning data into intelligent, real-world solutions
-🎓 Final-year Undergraduate at **Sri Lanka Technological Campus (SLTC)**
-📚 Studying **Data Science**
+* 💡 Passionate about turning data into intelligent, real-world solutions.
+* 🎓 Final-year Undergraduate at **Sri Lanka Technological Campus (SLTC)** studying **Data Science**.
 
-Interested in:
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Business Intelligence
-- 🧠 Deep Learning & Model Deployment
-- 🌐 Full-Stack Web Development
-- 📈 Data Analytics
+🎯 **Core Interests:**
+* 🤖 **Artificial Intelligence & Machine Learning** 
+* 🧠 **Explainable AI (XAI)** & Model Interpretability
+* 📊 **Business Intelligence & Advanced Data Analytics**
+* ⚙️ **MLOps, Model Deployment & API Development**
+* 🌐 **Full-Stack Web Development** 
 
-Currently Working On:
-- 🛡️ AI-based misinformation detection (Final Year Project)
-- 👗 Explainable Multi-Objective Generative Fashion Design Using Deep Learning and Machine Learning for Pre-Production Market Optimization
-
-⚡ Fun Fact:
-> "I love turning messy data into models that actually help people."
+⚡ **Fun Fact:**
+> *"I love turning messy data into models that actually help people."*
 
 <br clear="both"/>
 
 ---
 
-### 🛠️ Tech Toolkit
-
-<div align="center">
+### 🛠️ Tech Toolkit & Skills
 
 | Category | Technologies |
 | :--- | :--- |
-| **💻 Languages** | `Python` `JavaScript` `SQL` `HTML` `CSS` |
-| **🌐 Web Development** | `React` `Flask` `Node.js` |
-| **🤖 AI / ML / Data** | `TensorFlow` `Scikit-learn` `Pandas` `NumPy` |
-| **⚙️ Tools & Platforms** | `Git` `GitHub` `VS Code` `Streamlit` `PostgreSQL` |
+| **💻 Languages** | `Python` `SQL` `Java` `JavaScript` `Kotlin` `HTML` `CSS` |
+| **🤖 AI / DL / ML** | `Scikit-learn` `XGBoost` `TensorFlow` `PyTorch` `CNN` `BERT` `CLIP` `GNNs` |
+| **💡 Explainable AI** | `SHAP` `Grad-CAM` |
+| **📊 Data & Analytics** | `Pandas` `NumPy` `Matplotlib` `Plotly` `Power BI` `Streamlit` |
+| **🐘 Big Data & DBs** | `Apache Spark` `PySpark` `Spark SQL` `MongoDB` `Firebase` `PostgreSQL` |
+| **⚙️️ MLOps & Tools** | `MLflow` `Docker` `FastAPI` `Flask` `React.js` `Git` `GitHub` `Gemini API` `FAISS` |
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,nodejs,tensorflow,sklearn,postgres,git,github,vscode&perline=7" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,kotlin,html,css,react,fastapi,tensorflow,pytorch,sklearn,mongodb,postgres,firebase,docker,git,github,vscode,figma&perline=10" />
 </div>
 
 ---
 
+### 🚀 Projects & Learning
 
-### 📈 Activity Radar
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dewmiabeykoon&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-### 💖 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dewmiabeykoon&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
-</div>
-
----
-
-<div align="center">
-
-### 💫 Quote of the Day
-
-✨ *"Learn. Build. Deploy. Repeat."* ✨
+#### 🛡️ DeepShield — AI-Based Misinformation & Fake News Detection
+*(Final Year Research Project)*
+* Developing an explainable, multimodal AI framework using **text, images, and metadata** for trust assessment and fake news detection.
+* **Tech Stack:** `Python`, `PyTorch`, `BERT`, `CLIP`, `FAISS`, `SHAP`, `Grad-CAM`, `FastAPI`, `React.js`
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=footer&text=THANKS%20FOR%20VISITING%20MY%20PROFILE&fontSize=18&fontColor=00F7FF&animation=fadeIn"/>
+#### 🌱 Currently Exploring
+* 🤖 **MLOps & CI/CD** – Model serving with FastAPI & Docker, experiment tracking with MLflow.
+* ☁️ **Cloud ML** – AWS & Google Cloud fundamentals for scalable AI deployments.
+* 🧠 **Advanced AI/CV** – LLMs, Retrieval-Augmented Generation (RAG), and YOLO object detection.
+* 🗄️ **Data Engineering** – Advanced SQL window functions and PySpark data pipelines.
+
+---
+
+### 💼 Career Focus
+
+I am actively seeking opportunities to apply my **Data Science, AI/ML Engineering, and Analytics** expertise in real-world, high-impact environments.
+
+<div align="center">
+
+🎯 **Target Roles:**  
+`Data Scientist` &nbsp;•&nbsp; `AI/ML Engineer` &nbsp;•&nbsp; `BI Analyst` &nbsp;•&nbsp; `Data Analyst`
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+  <a href="https://github.com/dewmiabeykoon">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dewmiabeykoon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewmiabeykoon&layout=compact&theme=tokyonight&hide=html,css" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=dewmiabeykoon&label=Profile+Views&color=00F7FF&style=for-the-badge" />
+
+  <br/><br/>
+
+  💫 *"Learn. Build. Deploy. Repeat."* 💫
+
+
+  <br/>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=footer&text=THANKS%20FOR%20VISITING%20MY%20PROFILE&fontSize=18&fontColor=00F7FF&animation=fadeIn" />
 
 </div>
